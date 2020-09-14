@@ -4091,3 +4091,9 @@ FORM z024 USING b_result.
   ENDIF.
 
 ENDFORM.
+FORM z025 USING b_result.
+
+DATA: lv_test TYPE string.
+
+ENDFORM
+
