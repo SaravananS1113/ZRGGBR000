@@ -4095,5 +4095,5 @@ FORM z025 USING b_result.
 
 DATA: lv_test TYPE string.
 
-ENDFORM
+ENDFORM.
 
